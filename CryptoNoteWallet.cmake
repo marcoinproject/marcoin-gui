@@ -1,0 +1,4 @@
+set(CN_PROJECT_NAME "MarcoinWallet")
+set(CN_CURRENCY_DISPLAY_NAME "Marcoin")
+set(CN_CURRENCY_TICKER "H2O")
+

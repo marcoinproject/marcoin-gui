@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Marcoin Wallet
+Comment=Marcoin wallet
+Exec=marcoinwallet %U
+Terminal=false
+Type=Application
+Icon=marcoin
+MimeType=x-scheme-handler/marcoin;
+Categories=Office;Finance;
