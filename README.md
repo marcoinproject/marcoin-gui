@@ -89,4 +89,4 @@ When the build has finished, to copy the Marcoin GUi app into your Application f
 
 ```cp -r MarcoinWallet.app ~/Applications```
 
-You can now run the Marcoin GUI from Finder. Make sure that alloyd is running in a terminal window else the GUI will crash on startup.
+You can now run the Marcoin GUI from Finder. Make sure that marcoind is running in a terminal window else the GUI will crash on startup.
