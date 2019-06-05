@@ -1,14 +1,14 @@
-# Alloy GUI
+# Marcoin GUI
 
-Copyright (c) 2017-2018, The Alloy Developers.   
+Copyright (c) 2017-2018, The Marcoin Developers.   
 Portions Copyright (c) 2012-2017, The CryptoNote Developers, The Bytecoin Developers.
 
 # License
 
-Alloy's GUI Wallet is licensed under the "MIT License" for more info, refer to the [License](LICENSE) file.
+Marcoin's GUI Wallet is licensed under the "MIT License" for more info, refer to the [License](LICENSE) file.
 
 # Download Releases
-https://github.com/alloyproject/alloy-gui/releases
+https://github.com/marcoinproject/marcoin-gui/releases
 
 
 # How to build for Ubuntu Linux
@@ -34,7 +34,7 @@ https://github.com/alloyproject/alloy-gui/releases
 
 ```make```
 
-```./AlloyWallet```
+```./MarcoinWallet```
 
 
 
@@ -82,11 +82,11 @@ Run make to build the wallet:
 
 Fix the Links
 
-```/opt/homebrew/opt/qt/bin/macdeployqt AlloyWallet.app/```
+```/opt/homebrew/opt/qt/bin/macdeployqt MarcoinWallet.app/```
 
 
-When the build has finished, to copy the Alloy GUi app into your Application folder type:
+When the build has finished, to copy the Marcoin GUi app into your Application folder type:
 
-```cp -r AlloyWallet.app ~/Applications```
+```cp -r MarcoinWallet.app ~/Applications```
 
-You can now run the Alloy GUI from Finder. Make sure that alloyd is running in a terminal window else the GUI will crash on startup.
+You can now run the Marcoin GUI from Finder. Make sure that alloyd is running in a terminal window else the GUI will crash on startup.
