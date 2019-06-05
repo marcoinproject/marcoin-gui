@@ -20,11 +20,11 @@ https://github.com/marcoinproject/marcoin-gui/releases
 ```sudo apt-get install qt5-default qttools5-dev-tools```
 
 
-```git clone https://github.com/alloyproject/alloy-gui```
+```git clone https://github.com/marcoinproject/marcoin-gui```
 
-```cd alloy-gui```
+```cd marcoin-gui```
 
-```git submodule add -f https://github.com/alloyproject/alloy```
+```git submodule add -f https://github.com/marcoinproject/marcoin```
 
 ```cp CMakeLists_ubuntu.txt CMakeLists.txt```
 
@@ -50,19 +50,19 @@ Open a Terminal and type:
 
 ```brew install cmake```
 
-Download a copy of the alloy-gui source:
+Download a copy of the marcoin-gui source:
 
 ```cd /opt```
 
-```git clone https://github.com/alloyproject/alloy-gui```
+```git clone https://github.com/marcoinproject/marcoin-gui```
 
-Enter the alloy-gui directory:
+Enter the marcoin-gui directory:
 
-```cd alloy-gui```
+```cd marcoin-gui```
 
-Download the latest alloycoin codebase:
+Download the latest marcoin codebase:
 
-```git submodule add -f https://github.com/alloyproject/alloy```
+```git submodule add -f https://github.com/marcoinproject/marcoin```
 
 Use the correct CMake File
 
